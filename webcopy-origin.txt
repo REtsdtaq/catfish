@@ -1,0 +1,112 @@
+Uri: https://catfish.so/
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\index.htm
+Content Type: text/html
+
+Uri: https://catfish.so/assets/css/main.css
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\css\main.css
+Content Type: text/css
+
+Uri: https://catfish.so/assets/fonts/Friendszone.ttf
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\fonts\Friendszone.ttf
+Content Type: application/octet-stream
+
+Uri: https://catfish.so/assets/img/community/button-background_gray.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\community\button-background_gray.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/community/button-background_red.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\community\button-background_red.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/community/community-background.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\community\community-background.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/community/community-illustration.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\community\community-illustration.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/footer/footer-button-background.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\footer\footer-button-background.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/footer/footer-button-background_sm.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\footer\footer-button-background_sm.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/header/btn-background.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\header\btn-background.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/header/btn-background_sm.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\header\btn-background_sm.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/hero/hero-background.jpg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-background.jpg
+Content Type: image/jpeg
+
+Uri: https://catfish.so/assets/img/hero/hero-btn-bg_lg.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-btn-bg_lg.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/hero/hero-btn-bg_sm_1.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-btn-bg_sm_1.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/hero/hero-btn-bg_sm_2.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-btn-bg_sm_2.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/hero/hero-btn-bg_sm_3.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-btn-bg_sm_3.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/hero/hero-catfish.gif
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-catfish.gif
+Content Type: image/gif
+
+Uri: https://catfish.so/assets/img/hero/hero-message.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-message.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/hero/hero-suptitle.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\hero\hero-suptitle.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/ready/ready-background.jpg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\ready\ready-background.jpg
+Content Type: image/jpeg
+
+Uri: https://catfish.so/assets/img/ready/ready-contract-background.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\ready\ready-contract-background.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/ready/ready-copy-button-background.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\ready\ready-copy-button-background.svg
+Content Type: image/svg+xml
+
+Uri: https://catfish.so/assets/img/tokenomics/tokenomics-bg.jpg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\tokenomics\tokenomics-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://catfish.so/assets/img/tokenomics/tokenomics-boat.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\tokenomics\tokenomics-boat.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/tokenomics/tokenomics-items-bg.png
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\tokenomics\tokenomics-items-bg.png
+Content Type: image/png
+
+Uri: https://catfish.so/assets/img/tokenomics/tokenomics-star.svg
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\assets\img\tokenomics\tokenomics-star.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\ajax\libs\gsap\3.12.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js
+File Name: C:\Users\Yevhenii\Desktop\catfish\catfish.so\ajax\libs\gsap\3.12.5\ScrollTrigger.min.js
+Content Type: application/javascript
+
